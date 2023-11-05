@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 FIRST_NAME = "Dragos"
 LAST_NAME = "Juganariu"
+#email isn't important because this is a test form
 MAIL = "random_email@yahoo.com"
 
 chrome_settings = webdriver.ChromeOptions()
